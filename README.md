@@ -26,6 +26,8 @@ Check [docs](https://trpc.group/docs/languages/go/) to get deeper into tRPC-Go.
 
 **I only tested the trpc client instrumentation.**
 
+**You should start the server first with `cd helloworld/server && go run main.go`**
+
 ```
 ./otel set -debug
 ./otel go build -o client helloworld/client/main.go
