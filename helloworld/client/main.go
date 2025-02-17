@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"time"
 
 	"trpc.group/trpc-go/trpc-go/client"
 	"trpc.group/trpc-go/trpc-go/examples/helloworld/pb"
@@ -15,4 +16,6 @@ func main() {
 		log.Error(err)
 	}
 	log.Info(rsp.Msg)
+	// Waiting for the trace to be sent to the collector.
+	time.Sleep(8 * time.Second)
 }

@@ -1,7 +1,7 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/alibaba/opentelemetry-go-auto-instrumentation/test/verifier v0.0.0-20250213025756-f2a831f13e1b h1:u6uGru2GTL0wtCYVxCmw/tbkPWIlCjc6QkTjW6tw+7A=
-github.com/alibaba/opentelemetry-go-auto-instrumentation/test/verifier v0.0.0-20250213025756-f2a831f13e1b/go.mod h1:7x4OV83qh6FB98TzrxRTJRmq4OhAwFdwN1eNKtFyVEE=
+github.com/alibaba/opentelemetry-go-auto-instrumentation/test/verifier v0.0.0-20250213095509-0a8ac5556513 h1:0etXtjsnbfVyjRhDcPbL635ktz61cWyY4BOA5K/limw=
+github.com/alibaba/opentelemetry-go-auto-instrumentation/test/verifier v0.0.0-20250213095509-0a8ac5556513/go.mod h1:7x4OV83qh6FB98TzrxRTJRmq4OhAwFdwN1eNKtFyVEE=
 github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/benbjohnson/clock v1.1.0 h1:Q92kusRqC1XV2MjkWETPvjJVqKetz1OzxZB7mHJLju8=

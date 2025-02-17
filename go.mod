@@ -5,7 +5,7 @@ go 1.22.7
 toolchain go1.23.6
 
 require (
-	github.com/alibaba/opentelemetry-go-auto-instrumentation/test/verifier v0.0.0-20250213025756-f2a831f13e1b
+	github.com/alibaba/opentelemetry-go-auto-instrumentation/test/verifier v0.0.0-20250213095509-0a8ac5556513
 	github.com/prometheus/client_golang v1.16.0
 	go.opentelemetry.io/otel/metric v1.33.0
 	go.opentelemetry.io/otel/sdk v1.33.0
